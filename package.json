@@ -1,0 +1,31 @@
+{
+  "name": "buscadorautos",
+  "version": "1.0.0",
+  "description": "Tercer Proyecto del curso JavaScript +15 Proyectos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JotaErrE01/Busqueda-de-Autos.git"
+  },
+  "author": "Jonathan R.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JotaErrE01/Busqueda-de-Autos/issues"
+  },
+  "homepage": "https://github.com/JotaErrE01/Busqueda-de-Autos#readme",
+  "devDependencies": {
+    "css-loader": "^5.2.4",
+    "css-minimizer-webpack-plugin": "^2.0.0",
+    "html-loader": "^2.1.2",
+    "html-webpack-plugin": "^5.3.1",
+    "mini-css-extract-plugin": "^1.5.1",
+    "style-loader": "^2.0.0",
+    "terser-webpack-plugin": "^5.1.1",
+    "webpack": "^5.36.2",
+    "webpack-cli": "^4.6.0"
+  }
+}
